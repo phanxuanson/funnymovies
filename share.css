@@ -1,0 +1,63 @@
+.header-container {
+	width: 1300px;
+	display: flex;
+	margin: 0 auto;
+	border-bottom: 3px solid rgba(0, 0, 0, 0.93);
+}
+
+.header-container .row {
+	width: 100%;
+}
+
+.header-container .col-7 {
+	padding: 10px;
+}
+
+.container {
+	width: 1170px;
+	padding: 50px 0 30px 0;
+}
+
+.row {
+	margin: 20px 0;
+}
+
+.form-inline input {
+	margin: 0 5px;
+}
+
+.form-inline p {
+	margin:10px;
+}
+.container form {
+	width: 100%;
+	text-align: center;
+}
+
+.container fieldset {
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 2px groove (internal value);
+}
+
+.container legend {
+    display: block;
+    padding-inline-start: 2px;
+    padding-inline-end: 2px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+.container button {
+	margin: 10px 0 0 72px;
+	width: 50%;
+}
+.container input {
+	width: 50%;
+}
